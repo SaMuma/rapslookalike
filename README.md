@@ -9,7 +9,7 @@ Following that, we will add a new, unknown face, and then run it against the Rap
 * Either using the [Free Tier](https://azure.microsoft.com/en-us/try/cognitive-services/) or the [Marketplace version](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/Microsoft.CognitiveServicesFace), create a Face API Resource and get the key and endpoint 
 * Open the [Azure Notebook]() containing the code
 * Run each cell, making sure to get a 200 or 202 response
-* Ensure that Cell 7 has the maxNumOfCandidatesReturned is set to 1 and the confidenceThreshold is set to 0
+* Ensure that in Cell 7, the maxNumOfCandidatesReturned is set to 1 and the confidenceThreshold is set to 0
 
 ## Resources Used 
 * Azure Portal - Cognitive Services 
