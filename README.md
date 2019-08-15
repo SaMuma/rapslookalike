@@ -1,5 +1,6 @@
-# Raptors LookAlike Demo
-An implementation of Azure Cognitive Services Facial Recognition API to find out what Player on the Toronto Raptors team you look most like
+# Raptors Look-Alike Demo
+An implementation of Azure Cognitive Services Facial Recognition API to find out what Player on the Toronto Raptors team you look most like. 
+This demo is based on the work from Rachit Bedi in [this medium blog](https://medium.com/@rachit.bedi1/microsoft-face-apis-using-python-e16775622e3b)
 
 ## Introduction 
 To showcase how you can use cognitive services API's to recognize faces, we will add a selection of the Toronto Raptors 2018-2019 players as "Persons", then add them to a "Person Group" and train it. 
